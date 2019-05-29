@@ -5,9 +5,9 @@
     tools:context="com.example.proninhw222v1.MainActivity">
 
     <item
-        android:id="@+id/action_calculator"
+        android:id="@+id/action_subscribe"
         android:orderInCategory="100"
-        android:title="Калькулятор"
+        android:title="Подписка"
         app:showAsAction="never" />
 
     <item

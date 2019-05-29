@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".NotesActivity"/>
-        <activity android:name=".CalculatorActivity"/>
+        <activity android:name=".SubscribeActivity"/>
 
     </application>
 

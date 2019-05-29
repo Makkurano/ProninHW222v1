@@ -27,10 +27,10 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(MainActivity.this, "Отркываю записную книжку", Toast.LENGTH_LONG).show();
             return true;
         }
-        if (id == R.id.action_settings) {
-            Intent intentNotes = new Intent(MainActivity.this, NotesActivity.class);
+        if (id == R.id.action_subscribe) {
+            Intent intentNotes = new Intent(MainActivity.this, SubscribeActivity.class);
             startActivity(intentNotes);
-            Toast.makeText(MainActivity.this, "Отркываю калькулятор", Toast.LENGTH_LONG).show();
+            Toast.makeText(MainActivity.this, "Отркываю подписки", Toast.LENGTH_LONG).show();
             return true;
         }
         return super.onOptionsItemSelected(item);

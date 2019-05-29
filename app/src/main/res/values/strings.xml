@@ -2,4 +2,10 @@
     <string name="app_name">ProninHW2.2.2v1</string>
     <string name="TextHint">Введите текст заметки</string>
     <string name="Save">Сохранить</string>
+    <string name="TextName">Введите имя</string>
+    <string name="HintEmail">Введите e-mail</string>
+    <string name="TextEmail">E-mail:</string>
+    <string name="TextNameView">Имя:</string>
+    <string name="TextSubscribe">Оформление подписки</string>
+    <string name="TextClean">Очистить</string>
 </resources>
