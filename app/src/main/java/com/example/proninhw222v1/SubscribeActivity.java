@@ -11,11 +11,11 @@ public class SubscribeActivity extends AppCompatActivity {
     private TextView nameenter;
     private TextView editText;
     private TextView donetext;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_subscribe);
-
         editText = findViewById(R.id.editText);
         nameenter = findViewById(R.id.nameenter);
         donetext = findViewById(R.id.donetext);
